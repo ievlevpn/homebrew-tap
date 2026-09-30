@@ -1,6 +1,6 @@
 cask "sticky-calendar" do
-  version "0.13.0"
-  sha256 "3672c09ca0bafe379379bd81f257adeef294020435bf712ca16c1824ff404dfd"
+  version "0.14.0"
+  sha256 "e3419a42b1b68a6397d73a12248fe3de6c00e42afb6e6afd004846a8e93d1abd"
 
   url "https://github.com/ievlevpn/sticky-calendar/releases/download/v#{version}/StickyCalendar-#{version}.dmg"
   name "Sticky Calendar"
